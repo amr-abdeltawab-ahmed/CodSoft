@@ -1,3 +1,3 @@
 # CodSoft
 
-A simple Landing Page
+Tasks required under CodSoft Web development internship.
